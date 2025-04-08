@@ -1,11 +1,11 @@
 # 👋 Hi, I’m @TheProfessorAIR
 
-- 👀 Professor AIR here! I’m interested in educational technology, cloud computing, and building tools that empower people to grow in wealth and wisdom.
-- 🌱 I’m currently learning Avalonia UI, advanced C#, and scalable cloud architecture.
-- 💞️ I’m looking to collaborate on open-source EdTech projects, cross-platform desktop apps, and tech-for-good initiatives.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/professor-air-892aa3356/) | [YouTube: GOD Tender Loving Care](https://www.youtube.com/@GODTenderLovingCare)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I blend my tech skills with content creation — catch me breaking down tech tips and wealth-building hacks on YouTube & podcast under “Tech That Builds Wealth 💸 | Real Facts, Real Future.”
+- 👀 I’m passionate about educational technology, software development, and making tech knowledge accessible to all.
+- 🌱 I’m currently expanding remote and virtual career opportunities through content, coding, and community.
+- 💞️ I’m looking to collaborate on open-source EdTech tools, UI/UX-driven apps, and scalable software solutions.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/professor-air-892aa3356/) | [YouTube: Professor AIR](https://www.youtube.com/@TheProfessorAIR)
+- 😄 Just call me: **Professor AIR** (no politics, just purpose).
+- ⚡ Fun fact: I fuse my background in IT and education to create powerful, future-focused tech content that builds real-world skills and opportunities.
 
 <!---
 TheProfessorAIR/TheProfessorAIR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
